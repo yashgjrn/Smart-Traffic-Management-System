@@ -60,7 +60,7 @@ The application follows a modular OOP structure, centered on four classes: :cont
 **OOP Principles Employed**  
 - *Encapsulation*: Each class hides internal data and exposes minimal public APIs.  
 - *Abstraction*: Main menu interacts with high-level methods like `controlSignal()` or `reportViolation()` without internal details.  
-(Additional extensibility via inheritance/polymorphism is suggested as future work.) :contentReference[oaicite:8]{index=8}
+(Additional extensibility via inheritance/polymorphism is suggested as future work.) 
 
 ---
 
